@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLDuLich3", "QLDuLich3\QLDuLich3.csproj", "{9ED98065-045A-4BF3-8C61-B24959684AAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED98065-045A-4BF3-8C61-B24959684AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED98065-045A-4BF3-8C61-B24959684AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED98065-045A-4BF3-8C61-B24959684AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED98065-045A-4BF3-8C61-B24959684AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {401E77E4-5253-4B85-8F6B-EC36305A5493}
+	EndGlobalSection
+EndGlobal
